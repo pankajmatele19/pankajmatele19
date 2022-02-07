@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pankajmatele19
-- 👀 I’m interested in UI/UX Design and Web Development
+- 👀 I’m interested in Web Development and UI/UX Design
 - 🌱 I’m currently learning Java,Python and UI/UX
-- 💞️ I’m looking to collaborate on UI/UX and Web Development Projects
+- 💞️ I’m looking to collaborate on Web Development and UI/UX Projects
 - 📫 How to reach me Email - pankajmatele9@gmail.com
 
 <!---
