@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankajmatele19
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS and Node Js
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on Web Development and Data Science Projects
 - 📫 How to reach me Email - pankajmatele9@gmail.com
 
