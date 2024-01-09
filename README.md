@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pankajmatele19
-- 👀 I’m interested in Web Development
-- 💞️ I’m looking to collaborate on Web Development.
+- 👀 I’m interested in Web Application Development
+- 💞️ I’m looking to collaborate on Web Application Development Projects.
 - 📫 How to reach me Email - pankajmatele9@gmail.com
 
 <!---
